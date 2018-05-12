@@ -1,0 +1,33 @@
+_repo: The-Honorable-Peter-Stirling-and-What-People-Thought-of-Him_14532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Paul Leicester
+    birthdate: 1865
+    deathdate: 1902
+    gutenberg_agent_id: '1851'
+    url: http://www.gutenberg.org/2009/agents/1851
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14532'
+  lccn: '01002427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Labor movement -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Tenement houses -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: The Honorable Peter Stirling and What People Thought of Him
+url: http://www.gutenberg.org/ebooks/14532
